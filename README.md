@@ -10,7 +10,7 @@
 1. [ ][Go tooling essentials](http://golang.rakyll.org/go-tool-flags/)
 1. [ ][Real-time Data Pipelines using Go - Golang UK 2016](https://docs.google.com/presentation/d/14OMmHEY532V8cEf-qMKjeAKZfKXOGvSUkkbCefbd0Lc/edit#slide=id.g15b6741190_0_0)
 1. [ ][Effective Go in Korean](https://gosudaweb.gitbooks.io/effective-go-in-korean/content/)
-1. [ ][Structuring Applications in Go](https://mingrammer.com/translation-structuring-applications-in-go)
+1. [o][Structuring Applications in Go](https://mingrammer.com/translation-structuring-applications-in-go)
 1. [ ][Cloud in your cloud: How we build DigitalOcean](https://www.safaribooksonline.com/library/view/oreilly-software-architecture/9781491944615/part50.html)
 1. [ ][SSH with Go](http://talks.rodaine.com/gosf-ssh/present.slide#1)
 1. [ ][Modern Web 2016: Using Golang to build a smart IM Bot](http://www.slideshare.net/EvansLin/modern-web-2016-using-golang-to-build-a-smart-im-bot)
