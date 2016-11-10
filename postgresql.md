@@ -1,0 +1,3 @@
+- [PostgreSQL User Administration](http://www.davidpashley.com/articles/postgresql-user-administration/)
+- [postgresql tutorial](http://www.postgresqltutorial.com/)
+- [Digital Ocean: How To Use Roles and Manage Grant Permissions in PostgreSQL on a VPS](https://www.digitalocean.com/community/tutorials/how-to-use-roles-and-manage-grant-permissions-in-postgresql-on-a-vps--2)
